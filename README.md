@@ -24,4 +24,6 @@ of the game is a player keeps killing the enemies until it defeats the final bos
 either the player defeated the final boss, or the enemy kill the player. When a player first enters the
 game, hit points is set to 100 and weapon is “Hoe”.
 
-This project is only for assignment purpose
+This project is only for assignment purpose.
+
+Note: The music file is too big to upload to GitHub, so remember to remove the music file from the code
